@@ -6,7 +6,7 @@
 
 ## 免流上网
 
-详见[https://quitsense.cn:8443](https://quitsense.cn/apps/freeofcharge)
+详见[https://quitsense.cn/apps/freeofcharge](https://quitsense.cn/apps/freeofcharge)
 
 尝试的项目：
 
